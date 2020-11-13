@@ -56,8 +56,8 @@ html,body,#contents,.wrapper,#back{
     overflow: hidden;
   }
   
-  #back{
-    background-image: url(../images/spaceback.png);
+  #utyuu{
+    background-image: url(../images/utyuu.jpg);
     background-size: cover;
     background-position: center 100px;
     top: 0;
@@ -65,7 +65,7 @@ html,body,#contents,.wrapper,#back{
     transition: 2s all;
   }
   
-  #back.anime{
+  #utyuu.anime{
     top: 0%;
   }
   
